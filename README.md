@@ -41,6 +41,6 @@ Welcome to my CODSOFT repository! Here, I'm excited to showcase a collection of 
 
 These projects are licensed under the [MIT License](LICENSE).
 
-Feel free to explore, contribute, or adapt these projects to your own coding journey. Connect with me on [LinkedIn](www.linkedin.com/in/aatif-khan-a24282227) and let's collaborate on future endeavors!
+Feel free to explore, contribute, or adapt these projects to your own coding journey. Connect with me on [LinkedIn](https://www.linkedin.com/in/aatif-khan-a24282227) and let's collaborate on future endeavors!
 
 ![CODSOFT Logo](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=608,fit=crop,q=95/Aq20eV79zLfpXV6b/logo-png-mnl7npnlXjHPl9KV.png)
