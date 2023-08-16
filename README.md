@@ -61,6 +61,7 @@ java NumberGuessingGame
 The project structure is as follows:
 
 CODSOFT_Task1-NumberGame/
+
 ├── NumberGuessingGame.java
 
 └── README.md
