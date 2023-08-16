@@ -38,7 +38,8 @@ To run the Number Guessing Game, you need:
 
 1. Clone this repository to your local machine using:
 
-git clone https://github.com/Aatifkhan-lab/CODSOFT_Task1-NumberGame.git
+    ```sh
+   git clone https://github.com/Aatifkhan-lab/CODSOFT_Task1-NumberGame.git
 
 2. Navigate to the project directory:
 
